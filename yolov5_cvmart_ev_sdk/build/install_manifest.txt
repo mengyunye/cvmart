@@ -1,0 +1,2 @@
+/usr/local/ev_sdk/lib/libji.so
+/usr/local/ev_sdk/lib/libwktparser.so

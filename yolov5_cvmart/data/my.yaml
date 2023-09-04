@@ -1,0 +1,10 @@
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: /home/data/train.txt
+val: /home/data/val.txt
+
+# Classes
+nc: 16 # number of classes
+names: ['person','head','door_open','door_half_open','door_close','daizi','bottle','bag','box','plastic_basket','suitcase','mobile_phone','umbrella','folder','bicycle','electric_scooter']  # class names

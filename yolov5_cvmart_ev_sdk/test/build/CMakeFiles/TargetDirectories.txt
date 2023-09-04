@@ -1,0 +1,7 @@
+/project/ev_sdk/test/build/CMakeFiles/install/strip.dir
+/project/ev_sdk/test/build/CMakeFiles/install/local.dir
+/project/ev_sdk/test/build/CMakeFiles/test-ji-api.dir
+/project/ev_sdk/test/build/CMakeFiles/edit_cache.dir
+/project/ev_sdk/test/build/CMakeFiles/rebuild_cache.dir
+/project/ev_sdk/test/build/CMakeFiles/install.dir
+/project/ev_sdk/test/build/CMakeFiles/list_install_components.dir

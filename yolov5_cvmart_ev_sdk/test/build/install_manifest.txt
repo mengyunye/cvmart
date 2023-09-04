@@ -1,0 +1,1 @@
+/usr/local/ev_sdk/bin/test-ji-api

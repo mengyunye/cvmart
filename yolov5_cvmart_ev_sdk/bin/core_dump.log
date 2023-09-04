@@ -1,0 +1,14 @@
+*** Aborted at 1692075231 (unix time) try "date -d @1692075231" if you are using GNU date ***
+PC: @     0x7f5ed854ea9a SampleDetector::loadOnnx()
+*** SIGSEGV (@0x0) received by PID 1282 (TID 0x7f5ed8932000) from PID 0; stack trace: ***
+    @     0x7f5ed7ef2390 (unknown)
+    @     0x7f5ed854ea9a SampleDetector::loadOnnx()
+    @     0x7f5ed85502e1 SampleDetector::Init()
+    @     0x7f5ed85445cb SampleAlgorithm::Init()
+    @     0x7f5ed85535e5 ji_create_predictor
+    @           0x41157c Algo::Init()
+    @           0x40ad22 test_for_ji_calc_image()
+    @           0x40c9d6 main
+    @     0x7f5ed5fb7840 __libc_start_main
+    @           0x409269 _start
+    @                0x0 (unknown)

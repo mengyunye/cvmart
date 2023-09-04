@@ -1,0 +1,17 @@
+{    
+    "model_lib_path":["/usr/local/evdeploy/x86_64/lib/libtrt.so"],       
+    "serving_models":
+    [        
+        {   
+            "mode":"local_model",
+            "type": "common",
+            "engine":"trt",
+            "framework":"",
+            "version": "v1",
+            "inputs":["images"],
+            "outputs":["output"],
+            "model":"/usr/local/ev_sdk/model/exp2/weights/best.onnx",
+            "uuid":"200003"
+        }
+    ]
+}
